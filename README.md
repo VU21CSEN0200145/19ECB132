@@ -19,3 +19,6 @@ https://github.com/VU21CSEN0200145/19ECB132/blob/main/binary.c
 
 
 https://github.com/VU21CSEN0200145/19ECB132/blob/main/Theraded%20binary
+
+
+https://github.com/VU21CSEN0200145/19ECB132/blob/main/Letter%20count.c
