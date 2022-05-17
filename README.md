@@ -16,3 +16,6 @@ https://github.com/VU21CSEN0200145/19ECB132/blob/main/Two%20integers%20.c
 
 
 https://github.com/VU21CSEN0200145/19ECB132/blob/main/binary.c
+
+
+https://github.com/VU21CSEN0200145/19ECB132/blob/main/Theraded%20binary
