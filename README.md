@@ -13,3 +13,6 @@ https://github.com/VU21CSEN0200145/19ECB132/blob/main/Palindrome.c
 https://github.com/VU21CSEN0200145/19ECB132/blob/main/README.md
 
 https://github.com/VU21CSEN0200145/19ECB132/blob/main/Two%20integers%20.c
+
+
+https://github.com/VU21CSEN0200145/19ECB132/blob/main/binary.c
