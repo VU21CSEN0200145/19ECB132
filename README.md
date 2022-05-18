@@ -33,3 +33,5 @@ https://github.com/VU21CSEN0200145/19ECB132/blob/main/B%20tree.c
 https://github.com/VU21CSEN0200145/19ECB132/blob/main/Binary%20search.c
 
 https://github.com/VU21CSEN0200145/19ECB132/blob/main/POSITION%20.C
+
+https://github.com/VU21CSEN0200145/19ECB132/blob/main/doublelinkedlist.c
