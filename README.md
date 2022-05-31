@@ -12,7 +12,8 @@
 [preordertraversal.c](preordertraversal.c)    
 [linerasearch.c](linerasearch.c)   
 [singlelinkedlist.c](singlelinkedlist.c)     
-[add_delete_insert_in_an_array.c](add_delete_insert_in_an_array.c)
-[add_delete_modify_in_single_linked_list.c](add_delete_modify_in_single_linked_list.c)
+[add_delete_insert_in_an_array.c](add_delete_insert_in_an_array.c)    
+[add_delete_modify_in_single_linked_list.c](add_delete_modify_in_single_linked_list.c)   
+
 
 
