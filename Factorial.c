@@ -17,3 +17,5 @@ int main() {
 
     return 0;
 }
+Enter an integer: 34
+  Factorial of 34 = 4926277576697053184
