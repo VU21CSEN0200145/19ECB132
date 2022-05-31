@@ -3,7 +3,7 @@
 [FACTORIAL.C](FACTORIAL.C)  
 [PALINDROME.C](PALINDROME.C)  
 [README.C](README.C)  
-[TWOINTEGERS.C](TWOINTEGERS.c)  
+[lineardatastructure.c](lineardatastructure.c)  
 [BINARY.C](binary.C)  
 [THERADED.C](THERADEDBINARY.C)  
 [LETTERCOUNT.C](LETTERCOUNT.C)  
