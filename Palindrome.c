@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 int main() {
   int n, reversed = 0, remainder, original;
     printf("Enter an integer: ");
@@ -20,3 +20,5 @@ int main() {
 
     return 0;
 }
+Enter an integer: 45
+45 is not a palindrome
