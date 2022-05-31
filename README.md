@@ -5,7 +5,7 @@
 [README.C](README.C)  
 [lineardatastructure.c](lineardatastructure.c)  
 [BINARY.C](binary.C)  
-[THERADED.C](THERADEDBINARY.C)  
+[lengthofstring.c](lengthofstring.c)  
 [LETTERCOUNT.C](LETTERCOUNT.C)  
 [INSERTION.C](INSERTION.C)   
 [BTREE.C](BTREE.C)   
