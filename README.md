@@ -11,7 +11,8 @@
 [BTREE.C](BTREE.C)   
 [BINARYSEARCH.C](BINARYSEARCH.C)    
 [POSITION.C](POSITION.C)  
-[doublelinkedlist.c](doublelinkedlist.c)  
+[singlelinkedlist.c](singlelinkedlist.c)     
+
 
 
 
