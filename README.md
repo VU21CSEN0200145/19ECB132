@@ -1,4 +1,4 @@
-[ARRAY.C](ARRAY.C)  
+[reversingarray.c](reversingarray.c)  
 [OPERATORS.C](operators.C)  
 [FACTORIAL.C](FACTORIAL.C)  
 [PALINDROME.C](PALINDROME.C)  
