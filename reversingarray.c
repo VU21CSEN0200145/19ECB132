@@ -1,4 +1,4 @@
-#include <stdio.h>
+utnnprmmreob#include <stdio.h>
 #include <stdlib.h>
 void inputarr(int arr[], int n);
 void reverse(int arr[], int n);
@@ -49,7 +49,7 @@ void swap(int *a, int *b)
     int temp = *a;
     *a = *b;
     *b = temp;
-}
+}/*
 enter the size 
 3
 Enter your elements 
@@ -58,3 +58,4 @@ Enter your elements
 3
 1 2 3 
 3 2 1
+*/

@@ -20,5 +20,7 @@ int main() {
 
     return 0;
 }
+/*
 Enter an integer: 45
 45 is not a palindrome
+*/
