@@ -17,3 +17,5 @@
 [doublelinkedlist.c](doublelinkedlist.c)    
 [Theradedbinary.c](Theradedbinary.c)   
 [evenodd.c](evenodd.c)  
+[splaytree.c](splaytree.c)  
+[hashtable.c](hashtable.c)  
