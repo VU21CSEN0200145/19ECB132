@@ -19,3 +19,4 @@
 [evenodd.c](evenodd.c)  
 [splaytree.c](splaytree.c)  
 [hashtable.c](hashtable.c)  
+[avltree.c](avltree.c)  
